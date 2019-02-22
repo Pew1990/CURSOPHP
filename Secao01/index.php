@@ -1,8 +1,7 @@
 <?php
 
-echo "Gerando Conflito"
 
-
+echo "Hello World";
 
 
 	
